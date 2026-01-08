@@ -18,10 +18,10 @@ Package: io.github.haxolor.frida17
 Version: 17.0.1
 Architecture: iphoneos-arm64
 Maintainer: hachiware
-Installed-Size: 400
+Installed-Size: 17000
 Depends: mobilesubstrate (>= 0.9.5000), libvolumeflex
 Filename: debs/debs/frida_17.0.1_iphoneos-arm64.deb
-Size: 30102
+Size: 17000
 MD5sum: 58306f119b06577241bc0bf2c31062ae
 SHA1: 74bd0add5718bcb7556f89a8e6142436dc00bffa
 SHA256: 646618b5e73a87013261392668405b0d9a4b02302c4acc1a6f363951229f8440
