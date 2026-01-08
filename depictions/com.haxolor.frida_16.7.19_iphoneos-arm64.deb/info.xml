@@ -1,0 +1,46 @@
+<package>
+	<id>com.haxolor.frida</id>
+	<name>Full Package</name>
+	<version>16.7.19</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>frida</package>
+	</dependencies>
+	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>cat!!!</description>
+			<image>babykittens.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>a really like bunnies too</description>
+			<image>babybunny
+            .jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>go help some animals</name>
+			<url>https://animalcharityevaluators.org/recommended-charities/</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
